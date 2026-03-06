@@ -13,7 +13,7 @@ namespace DateTime
     {
         public MainForm()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
